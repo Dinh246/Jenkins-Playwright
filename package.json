@@ -1,0 +1,21 @@
+{
+  "name": "jenkins-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dinh246/Jenkins-Playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dinh246/Jenkins-Playwright/issues"
+  },
+  "homepage": "https://github.com/Dinh246/Jenkins-Playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.30.0"
+  }
+}
